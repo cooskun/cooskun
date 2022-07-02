@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Coskun</h1>
-<h3 align="center">A frontend developer from Sweden</h3>
 
 <p align="left"> <a href="https://twitter.com/_cooskun" target="blank"><img src="https://img.shields.io/twitter/follow/_cooskun?logo=twitter&style=for-the-badge" alt="_cooskun" /></a> </p>
 
